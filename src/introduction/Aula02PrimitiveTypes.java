@@ -12,6 +12,7 @@ public class Aula02PrimitiveTypes {
         short ageShort = 23;
         boolean haveSalary = true;
         char character = 'c';
+        String name = "Medeiros";
 
         System.out.println(age);
         System.out.println(bigNumber);
@@ -21,6 +22,6 @@ public class Aula02PrimitiveTypes {
         System.out.println(ageShort);
         System.out.println(haveSalary);
         System.out.println(character);
-
+        System.out.println(name);
     }
 }
