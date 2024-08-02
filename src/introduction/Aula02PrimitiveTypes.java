@@ -6,8 +6,8 @@ public class Aula02PrimitiveTypes {
 
         int age = 23;
         long bigNumber = 100000;
-        double salaryDouble = 2000;
-        float salaryFloat = 2500;
+        double salaryDouble = 2000.5;
+        float salaryFloat = 2500.5f;
         byte ageByte = 23;
         short ageShort = 23;
         boolean haveSalary = true;
