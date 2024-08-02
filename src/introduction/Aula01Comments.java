@@ -1,6 +1,6 @@
 package introduction;
 
-public class aula01 {
+public class Aula01Comments {
     //simple comment
     /*
     comment on two or more lines
