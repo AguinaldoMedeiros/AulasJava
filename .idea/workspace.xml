@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0953fae-d592-4d5d-ae34-8ce1c1b9ee2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/introduction/Aula02Console.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/introduction/Aula03Operators.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +50,7 @@
     "Application.Aula02Console.executor": "Run",
     "Application.Aula02PrimitiveTypes.executor": "Run",
     "Application.Aula02PrimitiveTypesExecises.executor": "Run",
+    "Application.Aula03Operators.executor": "Run",
     "Application.FirstProgram.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.aula02PrimitiveTypes.executor": "Run",
