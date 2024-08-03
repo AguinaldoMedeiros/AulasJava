@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0953fae-d592-4d5d-ae34-8ce1c1b9ee2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/introduction/Aula07While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/introduction/Aula08Arrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +56,7 @@
     "Application.Aula05TernaryOperator.executor": "Run",
     "Application.Aula06Switch.executor": "Run",
     "Application.Aula07While.executor": "Run",
+    "Application.Aula08Arrays.executor": "Run",
     "Application.FirstProgram.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.aula02PrimitiveTypes.executor": "Run",
